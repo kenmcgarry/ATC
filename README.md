@@ -22,3 +22,8 @@ Anatomical Therapeutic Codes (ATC) are a drug classification system which is ext
 > Kohonen, T., Oja, E., Simula, O., Visa, A., Kangas, J.: Engineering
   applications of the self-organizing map. Proceedings of the IEEE  84(10),
   1358--1383 (1996)
+  
+> McGarry, K., Slater, N., Amaning, A.: Identifying candidate drugs for
+  repositioning by graph based modeling techniques based on drug side-effects.
+  In: The 15th UK Workshop on Computational Intelligence, UKCI-2015. University
+  of Exeter, UK (7th-9th September 2015)
