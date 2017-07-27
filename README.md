@@ -27,3 +27,6 @@ Anatomical Therapeutic Codes (ATC) are a drug classification system which is ext
   repositioning by graph based modeling techniques based on drug side-effects.
   In: The 15th UK Workshop on Computational Intelligence, UKCI-2015. University
   of Exeter, UK (7th-9th September 2015)
+  
+  ## project last updated 27th July 2017
+  
